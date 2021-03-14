@@ -1,0 +1,45 @@
+
+/*
+ * Empty Stylesheet file.
+ */
+
+.cursor{
+    -fx-cursor: hand;
+}
+.lable{
+    -fx-font-size:20;
+    -fx-alignment:CENTER;
+}
+.font{
+    -fx-font-family: "Forte";
+}
+.radius{
+    -fx-background-radius:10;
+    -fx-border-radius:10;
+}
+.btn{
+    -fx-background-color: #3598db;
+    -fx-font-size:30;
+    -fx-font-weight:BOLD;
+
+}
+.mainFxmlClass {
+    -fx-background-color: #FFF;
+    -fx-alignment:TOP_CENTER;
+}
+
+.anchor {
+    
+    -fx-background-image:url('../images/img4.jpg');
+    -fx-background-size:stretch ;
+    -fx-background-repeat: no-repeat;
+  
+    
+}
+
+.labelRadius{
+    
+    -fx-border-width: 3;
+    -fx-border-color:  #3598db;
+    -fx-font-size:40;
+}
